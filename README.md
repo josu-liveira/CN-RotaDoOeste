@@ -1,4 +1,4 @@
-# Ferramentas para análise de dados
+# Códigos para análise e otimização de dados
 
 Este repositório possui scripts baseados em Python para análise de fichas em formato Excel. Ele lê dados específicos de cada ficha e os organiza em um DataFrame do Pandas. Depois, combina os DataFrames de várias fichas em um único DataFrame e salva o resultado em um arquivo Excel.
 
