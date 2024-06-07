@@ -4,7 +4,7 @@ Este repositório possui scripts baseados em Python para análise de fichas em f
 
 ## Funcionalidades
 
-- Lê dados de várias fichas de terraplenos em formato Excel.
+- Lê dados de várias fichas de drenagem e terraplenos em formato Excel.
 - Organiza os dados em um DataFrame do Pandas.
 - Combina os DataFrames de várias fichas em um único DataFrame.
 - Salva o DataFrame final em um arquivo Excel.
@@ -12,14 +12,17 @@ Este repositório possui scripts baseados em Python para análise de fichas em f
 ## Pré-requisitos
 
 - Python 3.x
-- Pandas
+- pandas
+- openpyxl
+- customtkinter
+- xlrd
 
 ## Como usar
 
 1. Clone este repositório:
 
     ```
-    git clone https://github.com/josu-liveira/CN-RotaDoOeste.git
+    git clone https://github.com/josu-liveira/cnro-fichas.git
     ```
 
 2. Navegue até o diretório do projeto:
