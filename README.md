@@ -1,4 +1,4 @@
-# Códigos para análise e otimização de dados
+# Algoritimo linear fichas - Monitoração 2024
 
 Este repositório possui scripts baseados em Python para análise de fichas em formato Excel. Ele lê dados específicos de cada ficha e os organiza em um DataFrame do Pandas. Depois, combina os DataFrames de várias fichas em um único DataFrame e salva o resultado em um arquivo Excel.
 
@@ -25,7 +25,7 @@ Este repositório possui scripts baseados em Python para análise de fichas em f
 2. Navegue até o diretório do projeto:
 
     ```
-    cd CN-RotaDoOeste
+    cd cnro-fichas
     ```
 
 3. Certifique-se de que o Python e o Pandas estão instalados.
