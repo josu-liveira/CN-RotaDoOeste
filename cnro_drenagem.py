@@ -143,7 +143,7 @@ ctk.set_appearance_mode("dark")  # Modo de aparência
 ctk.set_default_color_theme("blue")  # Tema de cores
 
 root = ctk.CTk()
-root.title("Linear drenagem - Monitoração 2024")
+root.title("Linear drenagem superficial - Monitoração 2024")
 root.geometry("755x600")
 
 # Frame principal
