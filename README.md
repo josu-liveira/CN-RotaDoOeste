@@ -4,8 +4,8 @@ Este repositório possui scripts Python com uma interface gráfica amigável par
 # Interface
 
 <div style="display: flex; flex-direction: row; align-items: center;">
-  <img src="https://github.com/josu-liveira/cnro-fichas/assets/167824520/cdd1e5b9-a7a6-407a-9896-e0fde8af00b5" alt="programa" style="width: 500px;"/>
-  <img src="https://github.com/josu-liveira/cnro-fichas/assets/167824520/adac9536-eb99-47b9-a126-fb48c773a71e" alt="image" style="width: 500px;"/>
+  <img src="https://github.com/josu-liveira/cnro-fichas/assets/167824520/cdd1e5b9-a7a6-407a-9896-e0fde8af00b5" alt="programa" style="width: 300px;"/>
+  <img src="https://github.com/josu-liveira/cnro-fichas/assets/167824520/adac9536-eb99-47b9-a126-fb48c773a71e" alt="image" style="width: 300px;"/>
 </div>
 
 
